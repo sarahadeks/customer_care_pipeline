@@ -1,0 +1,50 @@
+[
+    {
+        "senderDeviceType": "Android Customer",
+        "customerId": 17071099,
+        "fromId": 17071099,
+        "toId": 16293039,
+        "chatStartedByMessage": false,
+        "orderId": 59528555,
+        "priority": null,
+        "resolution": true,
+        "agentId": 16293039,
+        "messageSentTime": "2019-08-19T08:01:47Z"
+    },
+    {
+        "senderDeviceType": "Web Agent",
+        "customerId": 17071099,
+        "fromId": 16293039,
+        "toId": 17071099,
+        "chatStartedByMessage": false,
+        "orderId": 59528555,
+        "priority": null,
+        "resolution": false,
+        "agentId": 16293039,
+        "messageSentTime": "2019-08-19T8:01:047Z"
+    },
+    {
+        "senderDeviceType": "Android Customer",
+        "customerId": 17071099,
+        "fromId": 17071099,
+        "toId": 16293039,
+        "chatStartedByMessage": false,
+        "orderId": 59528555,
+        "priority": true,
+        "resolution": false,
+        "agentId": 16293039,
+        "messageSentTime": "2019-08-19T8:00:047Z"
+    },
+    {
+        "senderDeviceType": "Web Agent",
+        "customerId": 12874122,
+        "fromId": 18325287,
+        "toId": 12874122,
+        "chatStartedByMessage": true,
+        "orderId": 59528038,
+        "priority": false,
+        "resolution": false,
+        "agentId": 18325287,
+        "messageSentTime": "2019-08-19T7:59:337Z"
+    }
+]

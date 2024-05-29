@@ -1,0 +1,7 @@
+pandas
+json
+apache-airflow[celery]==2.3.3
+sqlalchemy
+psycopg2
+dateutil
+datetime

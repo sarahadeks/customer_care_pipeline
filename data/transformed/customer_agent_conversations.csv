@@ -1,0 +1,3 @@
+order_id,city_code,first_agent_message,first_customer_message,num_messages_agent,num_messages_customer,first_message_by,conversation_started_at,first_response_time_delay_seconds,last_message_time,last_message_order_stage,resolved
+59528555,LOS,2019-08-19 08:01:04,2019-08-19 08:00:04,1,2,customer,2019-08-19 08:00:04,60,2019-08-19 08:01:47,1,True
+59528038,LGT,2019-08-19 07:59:33,,1,0,agent,2019-08-19 07:59:33,0,2019-08-19 07:59:33,0,False

@@ -1,0 +1,5 @@
+senderDeviceType,customerId,fromId,toId,chatStartedByMessage,orderId,priority,resolution,agentId,messageSentTime
+Android Customer,17071099,17071099,16293039,False,59528555,False,True,16293039,2019-08-19 08:01:47+00:00
+Web Agent,17071099,16293039,17071099,False,59528555,False,False,16293039,2019-08-19 08:01:04+00:00
+Android Customer,17071099,17071099,16293039,False,59528555,True,False,16293039,2019-08-19 08:00:04+00:00
+Web Agent,12874122,18325287,12874122,True,59528038,False,False,18325287,2019-08-19 07:59:33+00:00
